@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/addon-resizer-arm64:1.8.4
+FROM gcr.io/google_containers/addon-resizer-arm64:1.8.4
