@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/addon-resizer:1.8.4-arm64
+FROM k8s.gcr.io/addon-resizer-arm64:1.8.4
